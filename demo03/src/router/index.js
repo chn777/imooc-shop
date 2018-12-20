@@ -4,6 +4,7 @@ import HelloWorld from '@/components/HelloWorld'
 import GoodsList from '@/views/GoodsList'
 import Title from '@/views/Title'
 import Image from '@/views/Image'
+import Car from '@/views/Car'
 
 Vue.use(Router)
 
@@ -14,7 +15,11 @@ export default new Router({
     {
       path: '/',
       name: 'HelloWorld',
-      component: HelloWorld
+      components: {
+        default:GoodsList,
+        title:Title,
+        image:Image
+      }
     },
     {
       path: '/goods',
@@ -32,8 +37,7 @@ export default new Router({
           component: Image
         }
       ]
-    }
-    ,
+    },
     {
       path: '/goods/:goodsId',
       name: 'goodsList',
@@ -43,6 +47,11 @@ export default new Router({
       path: '/goods/:goodsId/user/:userName',
       name: 'goodsList',
       component: GoodsList
+    },
+    {
+      path: '/car/:carid',
+      name: 'car',
+      component: Car
     }
   ]
 })
