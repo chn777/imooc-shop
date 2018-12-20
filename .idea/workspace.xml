@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd6d6d49-1823-40df-b8bc-966bccff885d" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/demo03/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo03/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo03/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo03/src/views/GoodsList.vue" beforeDir="false" afterPath="$PROJECT_DIR$/demo03/src/views/GoodsList.vue" afterDir="false" />
+>>>>>>> origin/demo03-vue-router
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,7 +20,69 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+=======
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo03/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo03/src/router/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo03/src/views/Title.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo03/src/views/Image.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo03/src/views/GoodsList.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo03/src/views/Car.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> origin/demo03-vue-router
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,9 +103,15 @@
         <option value="$PROJECT_DIR$/demo03/src/views/Image.vue" />
         <option value="$PROJECT_DIR$/demo03/src/views/Title.vue" />
         <option value="$PROJECT_DIR$/demo03/src/views/GoodsList.vue" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/demo03/src/App.vue" />
         <option value="$PROJECT_DIR$/demo03/src/router/index.js" />
         <option value="$PROJECT_DIR$/demo03/src/views/Car.vue" />
+=======
+        <option value="$PROJECT_DIR$/demo03/src/views/Car.vue" />
+        <option value="$PROJECT_DIR$/demo03/src/App.vue" />
+        <option value="$PROJECT_DIR$/demo03/src/router/index.js" />
+>>>>>>> origin/demo03-vue-router
       </list>
     </option>
   </component>
@@ -60,6 +134,27 @@
               <item name="imooc-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="imooc-shop" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="imooc-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="demo03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="demo03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="imooc-shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="imooc-shop" type="462c0819:PsiDirectoryNode" />
+              <item name="demo03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> origin/demo03-vue-router
           </expand>
           <select />
         </subPane>
@@ -108,12 +203,20 @@
       <workItem from="1545008345477" duration="1679000" />
       <workItem from="1545284883370" duration="20000" />
       <workItem from="1545285000315" duration="21000" />
+<<<<<<< HEAD
       <workItem from="1545285431697" duration="3733000" />
+=======
+      <workItem from="1545285431697" duration="3118000" />
+>>>>>>> origin/demo03-vue-router
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="12111000" />
+=======
+    <option name="totallyTimeSpent" value="11496000" />
+>>>>>>> origin/demo03-vue-router
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -270,6 +373,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/demo03/src/views/Car.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> origin/demo03-vue-router
     <entry file="file://$PROJECT_DIR$/demo03/src/views/GoodsList.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -305,6 +418,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -312,6 +426,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+=======
+>>>>>>> origin/demo03-vue-router
         </state>
       </provider>
     </entry>
